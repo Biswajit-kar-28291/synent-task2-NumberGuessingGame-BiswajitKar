@@ -1,0 +1,45 @@
+# 🔹 Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔹 Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# 🔹 VS Code settings
+.vscode/
+
+# 🔹 PyCharm / IntelliJ
+.idea/
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 Logs
+*.log
+
+# 🔹 Environment variables
+.env
+
+# 🔹 Build / distribution
+build/
+dist/
+*.egg-info/
+
+# 🔹 Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# 🔹 Test / coverage
+.coverage
+htmlcov/
+
+# 🔹 JSON data (optional - if you DON'T want to upload scores)
+data/scores.json
+
+# 🔹 Temporary files
+*.tmp
+*.bak
